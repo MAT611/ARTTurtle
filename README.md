@@ -5,7 +5,7 @@ Welcome to ARTturtle...
 ArtTurtle is a program that displays many amazing designs with defferent colors and colormodes.
 
 EXE version:
-http://www.mediafire.com/file/vptbyispmw3x145/file
+http://www.mediafire.com/file/eytm7wymi4r6mcu/file
 
 The program contains: 
   - A customization window in which you can determine the program's resolution you want 
